@@ -1,0 +1,206 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrap {
+  width: 100%;
+  height: 620vh;
+  background-color: #386641;
+  font-family: monospace;
+}
+.wrap header {
+  width: 100%;
+  height: 10vh;
+  background-color: #6a994e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrap header .logo_title {
+  width: 200px;
+  height: 100%;
+  color: #386641;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrap header .logo_title h1 {
+  font-size: 40px;
+  font-weight: 900;
+}
+.wrap header .items {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px #386641;
+}
+.wrap header .items button {
+  width: 33.3%;
+  height: 100%;
+  font-size: 20px;
+  color: #386641;
+  background: none;
+  border: none;
+  transition: 0.2s;
+  font-size: 20px;
+  font-weight: 700;
+}
+.wrap header .items button:hover {
+  background-color: #a7c957;
+  color: #6a994e;
+  transition: 0.2s;
+}
+.wrap nav {
+  width: 100%;
+  height: 5vh;
+  background-color: #a7c957;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+}
+.wrap nav .popular {
+  width: 15%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #386641;
+}
+.wrap nav .Pop {
+  width: 17%;
+  height: 100%;
+  color: #386641;
+  background: none;
+  border: none;
+  transition: 0.2s;
+  font-weight: 700;
+}
+.wrap nav .Pop:hover {
+  color: #6a994e;
+  background-color: #386641;
+}
+.wrap .page1 {
+  margin: 40px 0px;
+  width: 100%;
+  height: 70vh;
+  background-color: #6a994e;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.wrap .page1 .list {
+  width: 300px;
+  height: 90%;
+  background-color: #a7c957;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.wrap .page1 .list ul {
+  height: 100%;
+  text-decoration: none;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.wrap .page1 .list ul li {
+  width: 100%;
+  height: 15%;
+  padding: 0 0 0 10px;
+  font-family: monospace;
+  color: #386641;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 26px;
+  transition: 0.5s;
+}
+.wrap .page1 .list ul li:hover {
+  background-color: #6a994e;
+  padding: 0 0 0 150px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.wrap .page1 .sliser {
+  width: 70%;
+  height: 90%;
+  background-color: #f2e8cf;
+}
+.wrap .shear_page {
+  width: 100%;
+  height: 100vh;
+  background-color: #6a994e;
+  margin: 40px 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  font-weight: 900;
+}
+.wrap .shear_page .page_name {
+  width: 50%;
+  height: 100px;
+  font-size: 50px;
+  font-family: monospace;
+  text-align: center;
+  color: #386641;
+}
+.wrap .shear_page .page_data {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f2e8cf;
+  flex-wrap: wrap;
+}
+.wrap .shear_page .page_data .card {
+  width: 300px;
+  height: 400px;
+  box-shadow: 0 5px 10px #111111;
+  border-radius: 10px;
+  background-color: #6a994e;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+}
+.wrap .shear_page .page_data .card img {
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: inset 0 5px 10px #111111;
+}
+.wrap .shear_page .page_data .card .phoneName {
+  font-weight: 800;
+  color: #eee;
+}
+.wrap .shear_page .page_data .card .phoneColor {
+  width: 30px;
+  height: 30px;
+  background-color: #fff;
+  border-radius: 50%;
+  border: double 5px #6a994e;
+}
+.wrap .shear_page .page_data .card .row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+.wrap .shear_page .page_data .card button {
+  margin-top: 20px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+}/*# sourceMappingURL=style_home.css.map */

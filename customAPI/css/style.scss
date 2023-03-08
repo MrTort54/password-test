@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+.library{
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #386641;
+
+    .card{
+        width: 300px;
+        height: 400px;
+        box-shadow: 0 5px 10px #111111;
+        border-radius: 10px;
+        background-color: #6a994e;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+        margin: 20px;
+        img{
+            width: 250px;
+            border-radius: 10px;
+        }
+        .phoneName{
+            font-weight: 800;
+            color: #eee;
+        }
+        .phoneColor{
+            width: 30px;
+            height: 30px;
+            background-color: #fff;
+            border-radius: 50%;
+            border: double 5px #6a994e;
+        }
+        .row{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 10px;
+        }
+        button{
+            margin-top: 20px;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 3px;
+        }
+    }
+
+}
+

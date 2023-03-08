@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 14",
+        "color": "#FA0B1C",
+        "memory": 256, 
+        "price": 1000,
+        "count": 43,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/09/072334/photo_2022-09-07_23-29-40-1397x1397.jpg.webp",
+        "action": ""
+    },
+    {
+        "id": 2,
+        "name": "Iphone 14 PRO",
+        "color": "#7F00B5",
+        "memory": 512, 
+        "price": 1200,
+        "count": 76,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/09/072316/photo_2022-09-07_22-54-17-1397x1397.jpg.webp",
+        "action": "20%"
+    },
+    {
+        "id": 3,
+        "name": "Iphone 14 PRO Max",
+        "color": "silver",
+        "memory": 128, 
+        "count": 30,
+        "price": 1400,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/09/072316/photo_2022-09-07_22-54-15-1397x1397.jpg.webp",
+        "action": "10%"
+    },
+    {
+        "id": 4,
+        "name": "Iphone 13",
+        "color": "pink",
+        "memory": 128, 
+        "count": 82,
+        "price": 920,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2021/09/142354/2021-09-14%2021.47.43-420x420.jpg.webp",
+        "action": ""
+    },
+    {
+        "id": 5,
+        "name": "Iphone 13 Mini",
+        "color": "white",
+        "memory": 128, 
+        "count": 48,
+        "price": 900,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2021/09/142153/2021-09-14%2021.47.45-1397x1397.jpg.webp",
+        "action": "10%"
+    },
+    {
+        "id": 6,
+        "name": "Iphone 11",
+        "color": "black",
+        "memory": 64, 
+        "count": 72,
+        "price": 520,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/04/081823/iphone11-black-select-2019-1397x1397.jpg.webp",
+        "action": "20%"
+    },
+    {
+        "id": 7,
+        "name": "Iphone 12",
+        "color": "purple",
+        "memory": 64, 
+        "count": 24,
+        "price": 520,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/04/081333/iphone-12-purple-select-2021-420x420.jpg.webp",
+        "action": "20%"
+    },
+    {
+        "id": 8,
+        "name": "Iphone 12",
+        "color": "black",
+        "memory": 64, 
+        "count": 72,
+        "price": 520,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/04/081319/iphone-12-black-select-2020-420x420.jpg.webp",
+        "action": "20%"
+    },
+    {
+        "id": 9,
+        "name": "Iphone 12 PRO",
+        "color": "gold",
+        "memory": 256, 
+        "count": 4,
+        "price": 800,
+        "pic": "https://jabko.ua/image/cache/catalog/products/2022/04/081844/efbbae65ae91b5a17af1798977a1c508%20(1)-420x420.jpg.webp",
+        "action": ""
+    },
+    {
+        "id": 10,
+        "name": "XR",
+        "color": "white",
+        "memory": 64, 
+        "count": 65,
+        "price": 380,
+        "pic": "https://jabko.ua/image/cache/catalog/files_com/jabko_black/iphone/xr-x-r/xr-white-420x420.jpg.webp",
+        "action": "10%"
+    },
+    {
+        "id": 11,
+        "name": "XR",
+        "color": "red",
+        "memory": 64, 
+        "count": 80,
+        "price": 380,
+        "pic": "https://jabko.ua/image/cache/catalog/files_com/jabko_black/iphone/xr-x-r/xr-red-420x420.jpg.webp",
+        "action": "20%"
+    },
+    {
+        "id": 12,
+        "name": "XR",
+        "color": "black",
+        "memory": 64, 
+        "count": 46,
+        "price": 380,
+        "pic": "https://jabko.ua/image/cache/catalog/files_com/jabko_black/iphone/xr-x-r/xr-black-2-420x420.jpg.webp",
+        "action": ""
+    }
+]
